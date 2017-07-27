@@ -1,4 +1,4 @@
-Pizza Ordering https://gonehiking8.github.io/pizza
+Pizza Ordering https://gonehiking8.github.io/pizza-order
 
 _A portfolio piece demonstrating a pizza order form and JavaScript using object constructor and prototype.
 
